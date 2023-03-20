@@ -1,0 +1,19 @@
+{
+  "name": "socialnetwork-angular-node",
+  "version": "1.0.0",
+  "description": "Backend for the project 'socialnetwork-angular-node'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordkev23/SocialNetwork-Angular-NodeJS.git"
+  },
+  "author": "Kevin Villanueva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lordkev23/SocialNetwork-Angular-NodeJS/issues"
+  },
+  "homepage": "https://github.com/Lordkev23/SocialNetwork-Angular-NodeJS#readme"
+}
